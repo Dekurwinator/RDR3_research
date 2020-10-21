@@ -1,0 +1,75 @@
+  
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<0x03FEEE17>
+
+  <UNK_MEMBER_0xBBE9E016> <-its contains all static collision names from rpf with boundaries
+    <UNK_MEMBER_0x16CB4432> 
+      <Item>
+        <UNK_MEMBER_0xA6CEB34F value="3556691822"/> its static collision name in dec
+        <UNK_MEMBER_0x245D6D2B value="-2691.40800000"/> ? bbmin for x
+        <UNK_MEMBER_0xF4058C7C value="-634.70070000"/> ? bbmin for y
+        <UNK_MEMBER_0x02102891 value="104.30200000"/> ? bbmin for z
+        <UNK_MEMBER_0xB76EC073 value="-2161.20600000"/> ? bbmax for x
+        <UNK_MEMBER_0xCA3465FE value="-307.03050000"/> ? bbmax for y
+        <UNK_MEMBER_0x9BD70944 value="141.55860000"/> ? bbmax for z
+       <assetType value="0"/>
+      </Item>
+    </UNK_MEMBER_0x16CB4432>
+  </UNK_MEMBER_0xBBE9E016>
+
+  <UNK_MEMBER_0xBFBF83D9> <- contains all imaps (names in dec) from rpf with boundaries
+    <UNK_MEMBER_0x16CB4432>
+      <Item>
+        <UNK_MEMBER_0x97CFED26 value="3255237888"/> - its imap name in dec
+        <UNK_MEMBER_0xADF2C538 value="1396298055"/> - its parent imap in dec
+        <UNK_MEMBER_0x4954ED3C value="-4355.61600000"/> - imap streamingExtentsMin for X
+        <UNK_MEMBER_0x3306C0A0 value="-2120.19700000"/> - imap streamingExtentsMin for Y
+        <UNK_MEMBER_0xE4D1A437 value="-1354.00500000"/> - imap streamingExtentsMin for Z
+        <UNK_MEMBER_0xA758BF75 value="-32.27038000"/> - imap streamingExtentsMax for X
+        <UNK_MEMBER_0x899283E9 value="1559.50000000"/> - imap streamingExtentsMax for Y
+        <UNK_MEMBER_0x79DDE47C value="1679.32300000"/> - imap streamingExtentsMax for Z
+        <UNK_MEMBER_0x4A6B5A4B value="-2907.64400000"/> - imap entitiesExtentsMin for X
+        <UNK_MEMBER_0x2E2C21CD value="-1216.39300000"/> - imap entitiesExtentsMin for Y
+        <UNK_MEMBER_0x1FFE8572 value="39.92363000"/> - imap entitiesExtentsMin for Z
+        <UNK_MEMBER_0x78C1CB28 value="-784.31500000"/> - imap entitiesExtentsMax for X
+        <UNK_MEMBER_0x6F0CB7BE value="119.30710000"/> - imap entitiesExtentsMax for Y
+        <UNK_MEMBER_0x5D461431 value="203.60540000"/> - imap entitiesExtentsMax for Z
+        <UNK_MEMBER_0xA0959197 value="true"/> ? it can be false or true
+        <UNK_MEMBER_0x318DA607 value="true"/> ? it can be false or true
+        <UNK_MEMBER_0x884563DD value="true"/> ? it can be false or true
+        <UNK_MEMBER_0xFC2C997B> <-its block section from imap
+          <flags value="0"/>
+          <UNK_MEMBER_0x26EA1379>``name`` , ``owner`` , ``exportedBy`` , ``time``</UNK_MEMBER_0x26EA1379>
+        </UNK_MEMBER_0xFC2C997B>
+      </Item>
+    </UNK_MEMBER_0x16CB4432>
+  </UNK_MEMBER_0xBFBF83D9>
+  
+
+  <UNK_MEMBER_0xF9199DAE> <- MLO related
+    <UNK_MEMBER_0x16CB4432>
+      <Item>
+        <groupId value="0"/>
+        <floorId value="0"/>
+        <numExitPortals value="1"/>
+        <UNK_MEMBER_0x4E292F18 value="2888311038"/> <- archetypeName in dec from MLO imap
+        <UNK_MEMBER_0x314F87F8 value="3505996823"/> <- MLO imap name in dec
+        <UNK_MEMBER_0xBEEBB085 value="-1864.54300000"/> its position for X from MLO imap
+        <UNK_MEMBER_0xB0FC14A6 value="-1727.50800000"/> its position for Y from MLO imap
+        <UNK_MEMBER_0xA353F952 value="88.25201000"/> its position for Z from MLO imap
+        <UNK_MEMBER_0xA311E68B value="0.00000000"/> its quaternion rotation for X from MLO imap
+        <UNK_MEMBER_0xB0DB821E value="0.00000000"/> its quaternion rotation for Y from MLO imap
+        <UNK_MEMBER_0xCB603727 value="0.50000100"/> its quaternion rotation for Z from MLO imap
+        <UNK_MEMBER_0x8C59B91B value="0.86602500"/> its quaternion rotation for W from MLO imap
+        <UNK_MEMBER_0xC2A14462 value="-1876.55600000"/> its entitiesExtentsMin for X from MLO imap
+        <UNK_MEMBER_0xB4DB28D6 value="-1749.15000000"/> its entitiesExtentsMin for Y from MLO imap
+        <UNK_MEMBER_0xEF261D6B value="84.39099000"/> its entitiesExtentsMin for Z from MLO imap
+        <UNK_MEMBER_0xAFC76588 value="-1841.06900000"/> its entitiesExtentsMax for X from MLO imap
+        <UNK_MEMBER_0xA20D4A14 value="-1714.92000000"/> its entitiesExtentsMax for Y from MLO imap
+        <UNK_MEMBER_0xEB6A5CCD value="94.82351000"/> its entitiesExtentsMax for Z from MLO imap
+        <UNK_MEMBER_0x2EFA0869>mp007_moonshine01_int</UNK_MEMBER_0x2EFA0869> MLO collision name
+      </Item>
+    </UNK_MEMBER_0x16CB4432>
+  </UNK_MEMBER_0xF9199DAE>
+  
+</0x03FEEE17>
